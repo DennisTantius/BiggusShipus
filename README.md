@@ -1,7 +1,7 @@
 # BiggusShipus
 
 <p align="center">
-    <img src="images/BiggusShipusLogo.png" alt="image" />
+    <img src="images/BiggusShipusLogo.png" alt="image" width="80%" />
     <br />
     <img src="https://img.shields.io/static/v1?label=Project&amp;message=Home%20Lab%20Cloud&amp;color=2E3440&amp;style=flat-square" alt="Project: Home Lab Cloud" />
     <img src="https://img.shields.io/static/v1?label=Hardware&amp;message=Raspberry%20Pi%204&amp;color=C51A4A&amp;logo=raspberrypi&amp;logoColor=white&amp;style=flat-square" alt="Hardware: Raspberry Pi 4" />
